@@ -2,7 +2,7 @@
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored some advanced React topics ⚛️. During this sprint, you studied **class components**, **the component lifecycle** and **class component lifecycle methods,** **custom hooks**, and **React Testing Library 🐙.** 
+This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored some advanced React topics ⚛️. During this sprint, you studied **class components**, **the component lifecycle** and **class component lifecycle methods,** **custom hooks**, and **React Testing Library 🐙.**
 
 In your challenge this week, you will demonstrate your mastery of these skills by creating an app that will fetch data from an internal server using a `class component`, displaying that data, using a `custom hook`, and `writing tests for your app.`
 
@@ -32,7 +32,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 * Push commits: git push origin <firstName-lastName>.
 * RUN npm install to install your dependencies.
 * RUN npm start to start your application.
- 
+
 ### Task 2: Project Requirements
  Your finished project must include all of the following requirements.
 
@@ -103,6 +103,8 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. Add your answers to the questions within `interview_answers.md` file. These will not be counted as a part of your sprint score but will be helpful for preparing you for your endorsement interview, and enhancing overall understanding.
 
 1. What are the main differences between a stateful and a functional component?
+stateful component
+
 
 2. When does a componentWillMount function be called? What about a componentWillUpdate?
 
